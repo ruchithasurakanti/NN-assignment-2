@@ -16,5 +16,11 @@ Document - ruchita NN assignment 3
 Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignment-4
 1. Data Manipulation
 2. Linear Regression
-Code File - NNDL_ASSIGNMENT_4
+Code File - NNDL_ASSIGNMENT_4.ipynb
 Document - ruchita NN assignment 4
+
+Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignment-5
+1. Implementing Naive Bayes method using scikit-learn library
+2. Implementing Linear SVM method using scikit-learn library
+Code File - NNDL_Assignment5.ipynb
+Document - NNDL_ASSIGNMENT_5_700753219
