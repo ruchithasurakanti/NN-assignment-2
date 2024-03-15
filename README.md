@@ -24,3 +24,10 @@ Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignme
 2. Implementing Linear SVM method using scikit-learn library
 Code File - NNDL_Assignment5.ipynb
 Document - NNDL_ASSIGNMENT_5_700753219
+
+Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming :Image Classification with CNN_ICP8
+1. About CNN
+2. Hyperparameters of CNN
+3. Image classification with CNN
+Code file - Neuralnetworks_Assignment7.ipynb
+Document - ICP7_NN_700753219
